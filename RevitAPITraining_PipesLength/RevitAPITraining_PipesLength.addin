@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Doc\RevitApi\RevitAPITraining_PipesLength.dll"</Assembly>
+		<AddInId>F40274B1-F0BA-4F3C-BCFA-CC63C4547927</AddInId>
+		<FullClassName>RevitAPITraining_PipesLength.Main</FullClassName>
+		<VendorId>bdvbuild</VendorId>
+		<Text>3.2 Длина труб</Text>
+	</AddIn>
+</RevitAddIns>
